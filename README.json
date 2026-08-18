@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:14:23Z",
+            "last_commit": "2026-08-18T10:18:08Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394605
+            "stars": 394669
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-29T00:39:06Z",
             "owner": "justjavac",
             "repo": "free-programming-books-zh_CN",
-            "stars": 118367
+            "stars": 118375
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2022-08-16T22:54:00Z",
             "owner": "programthink",
             "repo": "books",
-            "stars": 20188
+            "stars": 20191
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-05T16:53:16Z",
             "owner": "tpn",
             "repo": "pdfs",
-            "stars": 10096
+            "stars": 10098
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2024-01-02T03:50:55Z",
             "owner": "keyvanakbary",
             "repo": "learning-notes",
-            "stars": 6462
+            "stars": 6463
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2023-04-22T07:42:06Z",
             "owner": "7-sevens",
             "repo": "Developer-Books",
-            "stars": 4012
+            "stars": 4011
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2021-02-06T15:37:53Z",
             "owner": "yuanliangding",
             "repo": "books",
-            "stars": 2541
+            "stars": 2540
           }
         },
         {
@@ -175,7 +175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:04:29.336Z",
+    "last_updated": "2026-08-18T14:16:05.383Z",
     "original_repository": "wx-chevalier/Awesome-Books-Notes",
     "original_repository_sha": "3f427a766046349c0a18afc21c4afc5deb86af3b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Books-Notes",
