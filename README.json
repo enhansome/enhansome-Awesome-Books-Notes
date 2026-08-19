@@ -1,182 +1,158 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "如有加密文件，其解压密码为：wx-coder",
       "items": [
         {
-          "node_type": "item",
-          "title": "Freely available programming books",
-          "description": "List of Free Learning Resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T10:18:08Z",
-            "owner": "EbookFoundation",
-            "repo": "free-programming-books",
-            "stars": 394669
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "免费的编程中文书籍索引",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Freely available programming books",
+              "description": "List of Free Learning Resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 394760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "免费的编程中文书籍索引",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14098069,
+                "language": null,
+                "last_commit": "2026-07-29T00:39:06Z",
+                "owner": "justjavac",
+                "repo": "free-programming-books-zh_CN",
+                "stars": 118394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "books",
+              "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36639460,
+                "language": null,
+                "last_commit": "2022-08-16T22:54:00Z",
+                "owner": "programthink",
+                "repo": "books",
+                "stars": 20191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdfs",
+              "description": "A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20868768,
+                "language": "HTML",
+                "last_commit": "2026-08-05T16:53:16Z",
+                "owner": "tpn",
+                "repo": "pdfs",
+                "stars": 10100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/keyvanakbary/learning-notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80462373,
+                "language": "SCSS",
+                "last_commit": "2024-01-02T03:50:55Z",
+                "owner": "keyvanakbary",
+                "repo": "learning-notes",
+                "stars": 6463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/7-sevens/Developer-Books",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81897621,
+                "language": null,
+                "last_commit": "2023-04-22T07:42:06Z",
+                "owner": "7-sevens",
+                "repo": "Developer-Books",
+                "stars": 4011
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "books",
+              "description": "没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63474818,
+                "language": null,
+                "last_commit": "2021-02-06T15:37:53Z",
+                "owner": "yuanliangding",
+                "repo": "books",
+                "stars": 2540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Book-Doc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89856414,
+                "language": "Python",
+                "last_commit": "2025-09-13T09:34:12Z",
+                "owner": "Jarvis03",
+                "repo": "Book-Doc",
+                "stars": 750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021_JavaBooks",
+              "description": "📚Java 程序员必读书单（超 1000 本 PDF，附下载地址）包括但不限于 Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个 Java 程序员构建属于自己的知识体系。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302783444,
+                "language": null,
+                "last_commit": "2023-05-03T12:26:20Z",
+                "owner": "itwanger",
+                "repo": "JavaBooks",
+                "stars": 70
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-29T00:39:06Z",
-            "owner": "justjavac",
-            "repo": "free-programming-books-zh_CN",
-            "stars": 118375
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "books",
-          "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-08-16T22:54:00Z",
-            "owner": "programthink",
-            "repo": "books",
-            "stars": 20191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pdfs",
-          "description": "A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-05T16:53:16Z",
-            "owner": "tpn",
-            "repo": "pdfs",
-            "stars": 10098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/keyvanakbary/learning-notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2024-01-02T03:50:55Z",
-            "owner": "keyvanakbary",
-            "repo": "learning-notes",
-            "stars": 6463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/7-sevens/Developer-Books",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-22T07:42:06Z",
-            "owner": "7-sevens",
-            "repo": "Developer-Books",
-            "stars": 4011
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "books",
-          "description": "没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-02-06T15:37:53Z",
-            "owner": "yuanliangding",
-            "repo": "books",
-            "stars": 2540
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Book-Doc",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-13T09:34:12Z",
-            "owner": "Jarvis03",
-            "repo": "Book-Doc",
-            "stars": 751
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2021_JavaBooks",
-          "description": "📚Java 程序员必读书单（超 1000 本 PDF，附下载地址）包括但不限于 Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个 Java 程序员构建属于自己的知识体系。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-03T12:26:20Z",
-            "owner": "itwanger",
-            "repo": "JavaBooks",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Premium eBook free for Geeks",
-          "description": "This repository contains ebooks for most of the technology stacks.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "software-development-ebooks",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "book",
-          "description": "All programming languages books.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "educative.io_courses",
-          "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/liulinbo/slam",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/itdevbooks/pdf",
-          "description": null,
-          "children": []
+          "node_type": "group",
+          "title": "Acknowledgements"
         }
       ],
-      "title": "Acknowledgements"
-    },
-    {
-      "description": "笔者所有文章遵循知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议，欢迎转载，尊重版权。您还可以前往 NGTE Books 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：\n",
-      "items": [],
-      "title": "Copyright & More | 延伸阅读"
+      "title": "About"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:16:05.383Z",
+    "last_updated": "2026-08-19T12:06:54.946Z",
     "original_repository": "wx-chevalier/Awesome-Books-Notes",
+    "original_repository_id": 109693931,
     "original_repository_sha": "3f427a766046349c0a18afc21c4afc5deb86af3b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Books-Notes",
     "enhanced_repository_description": null,
