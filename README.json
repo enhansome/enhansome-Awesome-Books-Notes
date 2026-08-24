@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395133
+                "stars": 395136
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-29T00:39:06Z",
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118497
+                "stars": 118500
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2021-02-06T15:37:53Z",
                 "owner": "yuanliangding",
                 "repo": "books",
-                "stars": 2543
+                "stars": 2544
               }
             },
             {
@@ -150,7 +150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:14.981Z",
+    "last_updated": "2026-08-24T14:50:22.921Z",
     "original_repository": "wx-chevalier/Awesome-Books-Notes",
     "original_repository_id": 109693931,
     "original_repository_sha": "3f427a766046349c0a18afc21c4afc5deb86af3b",
