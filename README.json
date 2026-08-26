@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395196
+                "stars": 395256
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-29T00:39:06Z",
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118514
+                "stars": 118517
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-08-16T22:54:00Z",
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20210
+                "stars": 20214
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-05T16:53:16Z",
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10113
+                "stars": 10115
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-01-02T03:50:55Z",
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6469
+                "stars": 6470
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2023-04-22T07:42:06Z",
                 "owner": "7-sevens",
                 "repo": "Developer-Books",
-                "stars": 4011
+                "stars": 4013
               }
             },
             {
@@ -150,7 +150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:26:03.823Z",
+    "last_updated": "2026-08-26T14:23:58.639Z",
     "original_repository": "wx-chevalier/Awesome-Books-Notes",
     "original_repository_id": 109693931,
     "original_repository_sha": "3f427a766046349c0a18afc21c4afc5deb86af3b",
