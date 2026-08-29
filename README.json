@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Freely available programming books",
+                "homepage": "https://ebookfoundation.github.io/free-programming-books/",
                 "id": 13491895,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-18T14:16:15Z",
+                "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395465
+                "stars": 395482,
+                "topics": [
+                  "books",
+                  "education",
+                  "hacktoberfest",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -28,12 +39,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+                "homepage": "http://weibo.com/justjavac",
                 "id": 14098069,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-29T00:39:06Z",
+                "open_issues": 3,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118538
+                "stars": 118542,
+                "topics": [
+                  "android",
+                  "angular",
+                  "books",
+                  "free",
+                  "ios",
+                  "javascript",
+                  "kotlin",
+                  "pdf",
+                  "programming",
+                  "python",
+                  "react",
+                  "react-native",
+                  "swift",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -44,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+                "homepage": null,
                 "id": 36639460,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-08-16T22:54:00Z",
+                "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20219
+                "stars": 20219,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -60,12 +96,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs",
+                "homepage": "https://tpn.github.io/pdfs/",
                 "id": 20868768,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-05T16:53:16Z",
+                "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10123
+                "stars": 10123,
+                "topics": [
+                  "archive",
+                  "computer-science",
+                  "papers",
+                  "pdf",
+                  "systems-programming",
+                  "technical-documentation"
+                ]
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -76,12 +124,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes on books I read, talks I watch, articles I study, and papers I love",
+                "homepage": "https://keyvanakbary.github.io/learning-notes/",
                 "id": 80462373,
                 "language": "SCSS",
+                "license": null,
                 "last_commit": "2024-01-02T03:50:55Z",
+                "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6472
+                "stars": 6472,
+                "topics": [
+                  "book-notes"
+                ]
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -92,12 +147,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "编程开发相关书单列表整理",
+                "homepage": "https://github.com/7-sevens/Developer-Books",
                 "id": 81897621,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-22T07:42:06Z",
+                "open_issues": 9,
                 "owner": "7-sevens",
                 "repo": "Developer-Books",
-                "stars": 4012
+                "stars": 4012,
+                "topics": [
+                  "android",
+                  "c",
+                  "cplusplus",
+                  "java",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -108,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"我的阅历\"",
+                "homepage": null,
                 "id": 63474818,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-06T15:37:53Z",
+                "open_issues": 15,
                 "owner": "yuanliangding",
                 "repo": "books",
-                "stars": 2546
+                "stars": 2546,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -124,12 +195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "books and docments",
+                "homepage": null,
                 "id": 89856414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-13T09:34:12Z",
+                "open_issues": 0,
                 "owner": "Jarvis03",
                 "repo": "Book-Doc",
-                "stars": 751
+                "stars": 751,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             },
@@ -140,12 +216,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。",
+                "homepage": "https://gitee.com/itwanger/JavaBooks",
                 "id": 302783444,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-03T12:26:20Z",
+                "open_issues": 1,
                 "owner": "itwanger",
                 "repo": "JavaBooks",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "java",
+                  "mybatis",
+                  "mysql",
+                  "redis",
+                  "spring-boot"
+                ]
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
             }
@@ -159,15 +246,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:11:42.955Z",
+    "last_updated": "2026-08-29T04:25:06.683Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
+      "homepage": "https://ng-tech.icu/books/Awesome-CS-Books-and-Digests",
       "id": 109693931,
       "language": "HTML",
+      "license": "NOASSERTION",
       "last_commit": "2026-05-13T09:58:49Z",
+      "open_issues": 0,
       "owner": "wx-chevalier",
       "repo": "Awesome-Books-Notes",
-      "stars": 2184
+      "stars": 2184,
+      "topics": [
+        "book"
+      ]
     },
     "original_repository_sha": "3f427a766046349c0a18afc21c4afc5deb86af3b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Books-Notes",
