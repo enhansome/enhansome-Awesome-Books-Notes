@@ -17,11 +17,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-08-18T14:16:15Z",
-                "open_issues": 92,
+                "last_commit": "2026-08-29T12:26:19Z",
+                "open_issues": 82,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395482,
+                "stars": 395533,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 3,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118542,
+                "stars": 118550,
                 "topics": [
                   "android",
                   "angular",
@@ -156,7 +156,7 @@
                 "open_issues": 9,
                 "owner": "7-sevens",
                 "repo": "Developer-Books",
-                "stars": 4012,
+                "stars": 4013,
                 "topics": [
                   "android",
                   "c",
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:06.683Z",
+    "last_updated": "2026-08-29T17:22:17.858Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
