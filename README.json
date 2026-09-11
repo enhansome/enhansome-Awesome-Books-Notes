@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-10T16:15:02Z",
-                "open_issues": 81,
+                "open_issues": 86,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 396427,
+                "stars": 396530,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 5,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118795,
+                "stars": 118806,
                 "topics": [
                   "android",
                   "angular",
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10143,
+                "stars": 10144,
                 "topics": [
                   "archive",
                   "computer-science",
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6481,
+                "stars": 6480,
                 "topics": [
                   "book-notes"
                 ]
@@ -183,7 +183,7 @@
                 "open_issues": 15,
                 "owner": "yuanliangding",
                 "repo": "books",
-                "stars": 2549,
+                "stars": 2550,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -225,7 +225,7 @@
                 "open_issues": 1,
                 "owner": "itwanger",
                 "repo": "JavaBooks",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "java",
                   "mybatis",
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:11:22.558Z",
+    "last_updated": "2026-09-11T17:12:05.587Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
@@ -258,7 +258,7 @@
       "open_issues": 0,
       "owner": "wx-chevalier",
       "repo": "Awesome-Books-Notes",
-      "stars": 2193,
+      "stars": 2194,
       "topics": [
         "book"
       ]
