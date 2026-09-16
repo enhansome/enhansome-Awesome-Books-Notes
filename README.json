@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-15T15:54:40Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 396833,
+                "stars": 396957,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 6,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118921,
+                "stars": 118949,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20240,
+                "stars": 20242,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -183,7 +183,7 @@
                 "open_issues": 15,
                 "owner": "yuanliangding",
                 "repo": "books",
-                "stars": 2551,
+                "stars": 2550,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -225,7 +225,7 @@
                 "open_issues": 1,
                 "owner": "itwanger",
                 "repo": "JavaBooks",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "java",
                   "mybatis",
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:45:21.492Z",
+    "last_updated": "2026-09-16T17:44:05.550Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
@@ -258,7 +258,7 @@
       "open_issues": 0,
       "owner": "wx-chevalier",
       "repo": "Awesome-Books-Notes",
-      "stars": 2195,
+      "stars": 2196,
       "topics": [
         "book"
       ]
