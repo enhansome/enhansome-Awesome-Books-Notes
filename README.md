@@ -34,11 +34,11 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ## Acknowledgements
 
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 397,215 | 🐛 80 | 🌐 Python | 📅 2026-09-15: List of Free Learning Resources
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 397,312 | 🐛 81 | 🌐 Python | 📅 2026-09-15: List of Free Learning Resources
 
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 118,997 | 🐛 6 | 📅 2026-07-29
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,017 | 🐛 6 | 📅 2026-07-29
 
-* [books](https://github.com/programthink/books) ⭐ 20,248 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+* [books](https://github.com/programthink/books) ⭐ 20,252 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 
 * [pdfs](https://github.com/tpn/pdfs) ⭐ 10,157 | 🐛 10 | 🌐 HTML | 📅 2026-08-05: A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
 
@@ -100,4 +100,4 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
