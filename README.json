@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-24T12:26:41Z",
-                "open_issues": 78,
+                "open_issues": 81,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 397573,
+                "stars": 397644,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 6,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119084,
+                "stars": 119102,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20259,
+                "stars": 20261,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10167,
+                "stars": 10168,
                 "topics": [
                   "archive",
                   "computer-science",
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6482,
+                "stars": 6483,
                 "topics": [
                   "book-notes"
                 ]
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:57:16.929Z",
+    "last_updated": "2026-09-25T18:04:03.430Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
