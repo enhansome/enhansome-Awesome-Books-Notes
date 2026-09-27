@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-24T12:26:41Z",
-                "open_issues": 84,
+                "open_issues": 87,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 397829,
+                "stars": 397961,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 6,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119126,
+                "stars": 119145,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20262,
+                "stars": 20268,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10170,
+                "stars": 10172,
                 "topics": [
                   "archive",
                   "computer-science",
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6483,
+                "stars": 6485,
                 "topics": [
                   "book-notes"
                 ]
@@ -183,7 +183,7 @@
                 "open_issues": 15,
                 "owner": "yuanliangding",
                 "repo": "books",
-                "stars": 2554,
+                "stars": 2556,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:22:42.900Z",
+    "last_updated": "2026-09-27T17:56:04.209Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
@@ -254,7 +254,7 @@
       "id": 109693931,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-05-13T09:58:49Z",
+      "last_commit": "2026-09-27T02:55:51Z",
       "open_issues": 0,
       "owner": "wx-chevalier",
       "repo": "Awesome-Books-Notes",
@@ -263,7 +263,7 @@
         "book"
       ]
     },
-    "original_repository_sha": "3f427a766046349c0a18afc21c4afc5deb86af3b",
+    "original_repository_sha": "d86f19bc394235bf1a31d4e1fc151e81bac43007",
     "enhanced_repository": "enhansome/enhansome-Awesome-Books-Notes",
     "enhanced_repository_description": null,
     "title": "Awesome CS Books with stars"
