@@ -34,13 +34,13 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ## Acknowledgements
 
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,207 | 🐛 97 | 🌐 Python | 📅 2026-09-24: List of Free Learning Resources
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,271 | 🐛 100 | 🌐 Python | 📅 2026-09-24: List of Free Learning Resources
 
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,183 | 🐛 5 | 📅 2026-07-29
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,195 | 🐛 5 | 📅 2026-07-29
 
-* [books](https://github.com/programthink/books) ⭐ 20,274 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+* [books](https://github.com/programthink/books) ⭐ 20,279 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 
-* [pdfs](https://github.com/tpn/pdfs) ⭐ 10,180 | 🐛 10 | 🌐 HTML | 📅 2026-09-30: A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
+* [pdfs](https://github.com/tpn/pdfs) ⭐ 10,182 | 🐛 10 | 🌐 HTML | 📅 2026-09-30: A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
 
 * <https://github.com/keyvanakbary/learning-notes> ⭐ 6,484 | 🐛 15 | 🌐 SCSS | 📅 2024-01-02
 
@@ -100,4 +100,4 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
