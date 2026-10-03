@@ -17,11 +17,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-02T18:32:47Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-02T19:35:16Z",
+                "open_issues": 85,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398324,
+                "stars": 398349,
                 "topics": [
                   "books",
                   "education",
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "免费的编程中文书籍索引",
-              "description": null,
+              "description": "justjavac/free-programming-books-zh_CN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -48,7 +48,7 @@
                 "open_issues": 5,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119207,
+                "stars": 119208,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20280,
+                "stars": 20281,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10184,
+                "stars": 10185,
                 "topics": [
                   "archive",
                   "computer-science",
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "keyvanakbary/learning-notes",
-              "description": null,
+              "description": "keyvanakbary/learning-notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6486,
+                "stars": 6487,
                 "topics": [
                   "book-notes"
                 ]
@@ -143,7 +143,7 @@
             {
               "node_type": "item",
               "title": "7-sevens/Developer-Books",
-              "description": null,
+              "description": "7-sevens/Developer-Books",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
                 "open_issues": 9,
                 "owner": "7-sevens",
                 "repo": "Developer-Books",
-                "stars": 4012,
+                "stars": 4011,
                 "topics": [
                   "android",
                   "c",
@@ -191,7 +191,7 @@
             {
               "node_type": "item",
               "title": "Book-Doc",
-              "description": null,
+              "description": "Jarvis03/Book-Doc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:40:54.198Z",
+    "last_updated": "2026-10-03T04:25:12.763Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
