@@ -34,13 +34,13 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ## Acknowledgements
 
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 399,736 | 🐛 93 | 🌐 Python | 📅 2026-10-20: List of Free Learning Resources
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 399,831 | 🐛 92 | 🌐 Python | 📅 2026-10-22: List of Free Learning Resources
 
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,299 | 🐛 6 | 📅 2026-07-29
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,316 | 🐛 6 | 📅 2026-07-29
 
-* [books](https://github.com/programthink/books) ⭐ 20,329 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+* [books](https://github.com/programthink/books) ⭐ 20,330 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 
-* [pdfs](https://github.com/tpn/pdfs) ⭐ 10,211 | 🐛 10 | 🌐 HTML | 📅 2026-09-30: A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
+* [pdfs](https://github.com/tpn/pdfs) ⭐ 10,212 | 🐛 10 | 🌐 HTML | 📅 2026-09-30: A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
 
 * <https://github.com/keyvanakbary/learning-notes> ⭐ 6,495 | 🐛 15 | 🌐 SCSS | 📅 2024-01-02
 
@@ -50,7 +50,7 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 * [Book-Doc](https://github.com/Jarvis03/Book-Doc) ⭐ 754 | 🐛 0 | 🌐 Python | 📅 2025-09-13
 
-* [2021\_JavaBooks ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/itwanger/JavaBooks)](https://github.com/itwanger/JavaBooks) ⭐ 87 | 🐛 1 | 📅 2023-05-03: 📚Java 程序员必读书单（超 1000 本 PDF，附下载地址）包括但不限于 Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个 Java 程序员构建属于自己的知识体系。
+* [2021\_JavaBooks ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/itwanger/JavaBooks)](https://github.com/itwanger/JavaBooks) ⭐ 88 | 🐛 1 | 📅 2023-05-03: 📚Java 程序员必读书单（超 1000 本 PDF，附下载地址）包括但不限于 Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个 Java 程序员构建属于自己的知识体系。
 
 * [Premium eBook free for Geeks](https://github.com/arpitjindal97/technology_books): This repository contains ebooks for most of the technology stacks.
 
@@ -100,4 +100,4 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
