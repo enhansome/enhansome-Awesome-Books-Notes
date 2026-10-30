@@ -21,7 +21,7 @@
                 "open_issues": 89,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 400483,
+                "stars": 400547,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119437,
+                "stars": 119449,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20350,
+                "stars": 20355,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10225,
+                "stars": 10227,
                 "topics": [
                   "archive",
                   "computer-science",
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6497,
+                "stars": 6499,
                 "topics": [
                   "book-notes"
                 ]
@@ -183,7 +183,7 @@
                 "open_issues": 15,
                 "owner": "yuanliangding",
                 "repo": "books",
-                "stars": 2560,
+                "stars": 2561,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:11:48.619Z",
+    "last_updated": "2026-10-30T18:50:15.937Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
@@ -258,7 +258,7 @@
       "open_issues": 0,
       "owner": "wx-chevalier",
       "repo": "Awesome-Books-Notes",
-      "stars": 2220,
+      "stars": 2221,
       "topics": [
         "book"
       ]
