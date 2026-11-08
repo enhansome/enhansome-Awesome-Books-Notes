@@ -17,11 +17,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-01T02:48:06Z",
-                "open_issues": 103,
+                "last_commit": "2026-11-07T19:10:09Z",
+                "open_issues": 95,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 401208,
+                "stars": 401285,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 7,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119516,
+                "stars": 119525,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20485,
+                "stars": 20490,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -105,7 +105,7 @@
                 "open_issues": 10,
                 "owner": "tpn",
                 "repo": "pdfs",
-                "stars": 10242,
+                "stars": 10243,
                 "topics": [
                   "archive",
                   "computer-science",
@@ -225,7 +225,7 @@
                 "open_issues": 1,
                 "owner": "itwanger",
                 "repo": "JavaBooks",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "java",
                   "mybatis",
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:16:51.223Z",
+    "last_updated": "2026-11-08T18:29:30.934Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
