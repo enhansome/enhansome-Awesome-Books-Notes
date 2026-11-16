@@ -34,19 +34,19 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ## Acknowledgements
 
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,643 | 🐛 113 | 🌐 Python | 📅 2026-11-12: List of Free Learning Resources
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,706 | 🐛 118 | 🌐 Python | 📅 2026-11-12: List of Free Learning Resources
 
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,626 | 🐛 8 | 📅 2026-07-29
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,641 | 🐛 8 | 📅 2026-07-29
 
-* [books](https://github.com/programthink/books) ⭐ 20,505 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+* [books](https://github.com/programthink/books) ⭐ 20,509 | 🐛 110 | 📅 2022-08-16: 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 
 * [pdfs](https://github.com/tpn/pdfs) ⭐ 10,257 | 🐛 10 | 🌐 HTML | 📅 2026-11-10: A veritable mish-mash of technically-oriented PDFs I've collected over the years. All content copyright the respective author(s).
 
-* <https://github.com/keyvanakbary/learning-notes> ⭐ 6,502 | 🐛 15 | 🌐 SCSS | 📅 2024-01-02
+* <https://github.com/keyvanakbary/learning-notes> ⭐ 6,503 | 🐛 15 | 🌐 SCSS | 📅 2024-01-02
 
 * <https://github.com/7-sevens/Developer-Books> ⭐ 4,008 | 🐛 9 | 📅 2023-04-22
 
-* [books](https://github.com/yuanliangding/books) ⭐ 2,566 | 🐛 15 | 📅 2021-02-06: 没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。
+* [books](https://github.com/yuanliangding/books) ⭐ 2,565 | 🐛 15 | 📅 2021-02-06: 没时间写博客了，把读过的一些书分享出来给大家。这个库会持续不断的更新。并且每次只提交一本书，会在提交注释中附加对书的评论。
 
 * [Book-Doc](https://github.com/Jarvis03/Book-Doc) ⭐ 757 | 🐛 0 | 🌐 Python | 📅 2025-09-13
 
@@ -100,4 +100,4 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
