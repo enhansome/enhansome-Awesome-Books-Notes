@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-12T18:46:04Z",
-                "open_issues": 131,
+                "open_issues": 132,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 401957,
+                "stars": 402028,
                 "topics": [
                   "books",
                   "education",
@@ -48,7 +48,7 @@
                 "open_issues": 8,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119672,
+                "stars": 119679,
                 "topics": [
                   "android",
                   "angular",
@@ -84,7 +84,7 @@
                 "open_issues": 110,
                 "owner": "programthink",
                 "repo": "books",
-                "stars": 20521,
+                "stars": 20522,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:42.955Z"
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "keyvanakbary",
                 "repo": "learning-notes",
-                "stars": 6503,
+                "stars": 6504,
                 "topics": [
                   "book-notes"
                 ]
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:31:39.685Z",
+    "last_updated": "2026-11-21T20:14:32.503Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀创业、商业、产品、人文、计算机科学与技术领域相关的书籍归档，以及我的读书笔记。",
